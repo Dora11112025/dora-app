@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables (REAL KEYS)
+.env
+.env.local
+.env.development
+.env.production
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Build outputs
+dist/
+build/
